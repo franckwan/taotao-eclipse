@@ -4,7 +4,7 @@
   <artifactId>taotao-parent</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
-  
+  <!-- test -->
   <properties>
 		<junit.version>4.12</junit.version>
 		<spring.version>4.1.3.RELEASE</spring.version>
